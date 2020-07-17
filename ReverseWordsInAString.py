@@ -1,6 +1,5 @@
+###
 Given an input string, reverse the string word by word.
-
- 
 
 Example 1:
 
@@ -28,7 +27,7 @@ You need to reduce multiple spaces between two words to a single space in the re
 Follow up:
 
 For C programmers, try to solve it in-place in O(1) extra space.
-
+###
 
 class Solution(object):
     def reverseWords(self, s):
